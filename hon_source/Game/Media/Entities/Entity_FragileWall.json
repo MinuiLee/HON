@@ -1,0 +1,9 @@
+{
+  "Position": [ 0, 0, 0 ],
+  "Shader": "Basic",
+  "Sprite": "Entity_FragileWall",
+  "State" : true,
+  "Collidable": [ 34, 95 ],
+  "GameObject": [ 4 ],
+  "Status" : [10, 1, 2, 0]
+}

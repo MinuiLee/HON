@@ -1,0 +1,11 @@
+{
+  "Position": [ 0, 0, -0.1 ],
+  "Shader": "Animation",
+  "SpriteSheet": "TreasureBoxSheet",
+  "RigidBody": [1024, 200, 1024, 256],
+  "Collidable": [ 64, 48 ],
+  "GameObject": [ 1 ],
+  "State" : true,
+  "Status" : [1, 1, 2, 0],
+  "Audio": [ "Broom_Hit" ]
+}

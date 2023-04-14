@@ -1,0 +1,11 @@
+{
+	"Position":[0, 0, -0.1],
+	"SpriteSheet": "DefenseSheet",
+	"Shader": "Animation",
+	"State": true,
+	"RigidBody": [1024, 200, 1024, 400],
+	"Collidable": [ 36, 58 ],
+	"AI": [4, 200],
+	"Status": [3, 1, 2, 30],
+	"Audio": ["Broom_Hit", "Enemy_Dead", "Shield"]
+}

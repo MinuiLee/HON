@@ -1,0 +1,12 @@
+Size 100 67
+Scale 1.0 1.0
+
+Part Body
+|Animation	name	row	frameStart	frameEnd		frameTime
+Animation	Idle 	  0	  0 			  0 				    0.1
+Animation	Hurt	  2	  0 			  5 				    0.1
+Animation	Dead	  4	  0 			  5 				    0.15
+
+Part HitEffect
+|Animation	name		row	frameStart	frameEnd		frameTime
+Animation	Hit 	6	0 			    4 				  0.03

@@ -1,0 +1,12 @@
+{
+	"Position":[0, 0, -0.1],
+	"SpriteSheet": "SteamSheet",
+	"Shader": "Animation",
+	"State": true,
+	"RigidBody": [1024, 200, 1024, 256],
+	"Collidable": [ 64, 64 ],
+	"AI": [5],
+	"Status": [5, 1, 2, 30],
+	"Attackable": [0, 0, 64, 32],
+	"Audio": ["Broom_Hit", "Enemy_Dead"]
+}

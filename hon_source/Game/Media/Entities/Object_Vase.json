@@ -1,0 +1,7 @@
+{
+	"Position":[0, 0, 0],
+	"SpriteSheet": "VaseSheet",
+	"Shader": "Animation",
+	"State": true,
+	"Collidable": [48, 48]
+}

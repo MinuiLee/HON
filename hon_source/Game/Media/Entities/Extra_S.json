@@ -1,0 +1,6 @@
+{
+	"Position":[0, 0, -0.1],
+	"Shader": "Basic",
+	"Sprite": "Extra_S",
+	"Collidable": [50, 50]
+}

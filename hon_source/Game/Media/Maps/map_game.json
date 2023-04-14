@@ -1,0 +1,1025 @@
+{
+    "ENTITIES": [
+        {
+            "Name": "Object_Vase",
+            "X_pos": 45,
+            "Y_pos": -1501,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 2143,
+            "Y_pos": -984,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Player",
+            "X_pos": -3860,
+            "Y_pos": 312,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": 3360,
+            "Y_pos": -960,
+            "Z_pos": 0,
+            "Condition": 1
+        },
+        {
+            "Name": "Object_Vase",
+            "X_pos": 536,
+            "Y_pos": -1500,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": -1279,
+            "Y_pos": -2112,
+            "Z_pos": 0,
+            "Condition": 2
+        },
+        {
+            "Name": "Object_Vase",
+            "X_pos": 119,
+            "Y_pos": -1501,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": 2256,
+            "Y_pos": -1536,
+            "Z_pos": 0,
+            "Condition": 3
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": 2976,
+            "Y_pos": -1248,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": 3312,
+            "Y_pos": -2462,
+            "Z_pos": 0,
+            "Direction": 2
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": 2040,
+            "Y_pos": -672,
+            "Z_pos": 0,
+            "Condition": 3
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": 1416,
+            "Y_pos": -624,
+            "Z_pos": 0,
+            "Condition": 2
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 287,
+            "Y_pos": -530,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2671,
+            "Y_pos": -560,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2838,
+            "Y_pos": -560,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2728,
+            "Y_pos": -560,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 2904,
+            "Y_pos": -358,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 2455,
+            "Y_pos": -1767,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 1602,
+            "Y_pos": -1711,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 2422,
+            "Y_pos": -422,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 2202,
+            "Y_pos": 120,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 2281,
+            "Y_pos": 120,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 3121,
+            "Y_pos": -144,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Flower_Blue",
+            "X_pos": 3384,
+            "Y_pos": 240,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Flower_Red",
+            "X_pos": 2983,
+            "Y_pos": -2623,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 3502,
+            "Y_pos": -2952,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -540,
+            "Y_pos": -2664,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": -600,
+            "Y_pos": -2880,
+            "Z_pos": 0,
+            "Condition": 2
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 2323,
+            "Y_pos": -945,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": -24,
+            "Y_pos": -2688,
+            "Z_pos": 0,
+            "Condition": 2
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 2444,
+            "Y_pos": -2616,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 2362,
+            "Y_pos": -2616,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 497,
+            "Y_pos": -2740,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 1635,
+            "Y_pos": -2740,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Fork",
+            "X_pos": 2013,
+            "Y_pos": -2740,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": 963,
+            "Y_pos": -2947,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": 602,
+            "Y_pos": -2947,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2167,
+            "Y_pos": -2960,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2093,
+            "Y_pos": -2960,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 1074,
+            "Y_pos": -2960,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 1430,
+            "Y_pos": -2960,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 1043,
+            "Y_pos": -2960,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 228,
+            "Y_pos": -2960,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 572,
+            "Y_pos": -2816,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -623,
+            "Y_pos": -2664,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": -1441,
+            "Y_pos": -1145,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 2006,
+            "Y_pos": -2591,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2034,
+            "Y_pos": -1952,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Vase",
+            "X_pos": 466,
+            "Y_pos": -1501,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Cemetery",
+            "X_pos": 291,
+            "Y_pos": -1389,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2693,
+            "Y_pos": -1952,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2179,
+            "Y_pos": -1952,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2233,
+            "Y_pos": -1952,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 2581,
+            "Y_pos": -1952,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": 1796,
+            "Y_pos": -1939,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -1464,
+            "Y_pos": 336,
+            "Z_pos": 0,
+            "Direction": 3
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -1528,
+            "Y_pos": 312,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -816,
+            "Y_pos": 48,
+            "Z_pos": 0,
+            "Direction": 2
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -866,
+            "Y_pos": 120,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Door",
+            "X_pos": 144,
+            "Y_pos": 720,
+            "Z_pos": 0,
+            "Condition": 1
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": 287,
+            "Y_pos": 513,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": -1135,
+            "Y_pos": -128,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -529,
+            "Y_pos": -840,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 3074,
+            "Y_pos": -1608,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 2067,
+            "Y_pos": -984,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -1342,
+            "Y_pos": -1056,
+            "Z_pos": 0,
+            "Direction": 1
+        },
+        {
+            "Name": "Object_Flower_Yellow",
+            "X_pos": -1579,
+            "Y_pos": -1168,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -431,
+            "Y_pos": -2702,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 1858,
+            "Y_pos": -2432,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 684,
+            "Y_pos": -2432,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 638,
+            "Y_pos": -2432,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 1367,
+            "Y_pos": -2432,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": 1047,
+            "Y_pos": -2432,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": 879,
+            "Y_pos": -2419,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": 2475,
+            "Y_pos": -2419,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": 426,
+            "Y_pos": -2419,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": -1241,
+            "Y_pos": -1049,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": -1440,
+            "Y_pos": -1031,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": -12,
+            "Y_pos": -2331,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": 1464,
+            "Y_pos": -1392,
+            "Z_pos": 0,
+            "Direction": 3
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 1349,
+            "Y_pos": -1224,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Flower_White",
+            "X_pos": -1859,
+            "Y_pos": 322,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_Arrow",
+            "X_pos": -3827,
+            "Y_pos": 495,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_A",
+            "X_pos": -1237,
+            "Y_pos": 358,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_D",
+            "X_pos": -1899,
+            "Y_pos": -76,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_Arrow_Jump",
+            "X_pos": -2928,
+            "Y_pos": 312,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_S",
+            "X_pos": 277,
+            "Y_pos": 708,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_W",
+            "X_pos": -840,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -1656,
+            "Y_pos": -96,
+            "Z_pos": 0,
+            "Direction": 1
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -1591,
+            "Y_pos": -119,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_W",
+            "X_pos": -2278,
+            "Y_pos": 686,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_Arrow_Jump",
+            "X_pos": -2529,
+            "Y_pos": 681,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -912,
+            "Y_pos": -1080,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -624,
+            "Y_pos": 495,
+            "Z_pos": 0,
+            "Direction": 2
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -432,
+            "Y_pos": 504,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Extra_S",
+            "X_pos": -526,
+            "Y_pos": 637,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -624,
+            "Y_pos": 312,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -432,
+            "Y_pos": 312,
+            "Z_pos": 0,
+            "Direction": 2
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -624,
+            "Y_pos": 96,
+            "Z_pos": 0,
+            "Direction": 2
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -432,
+            "Y_pos": 96,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Entity_Statue",
+            "X_pos": -440,
+            "Y_pos": -224,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -1104,
+            "Y_pos": 624,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Extra_S",
+            "X_pos": -1107,
+            "Y_pos": 741,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -1104,
+            "Y_pos": 312,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": -2016,
+            "Y_pos": 240,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": -2016,
+            "Y_pos": -119,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 24,
+            "Y_pos": 24,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Defense",
+            "X_pos": -408,
+            "Y_pos": -211,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_+",
+            "X_pos": -2407,
+            "Y_pos": 680,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_Arrow_Jump",
+            "X_pos": -1064,
+            "Y_pos": -55,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Extra_+",
+            "X_pos": -960,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -3672,
+            "Y_pos": 648,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -3288,
+            "Y_pos": 648,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -2904,
+            "Y_pos": 648,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -1320,
+            "Y_pos": 504,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -1800,
+            "Y_pos": 120,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -888,
+            "Y_pos": 744,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -216,
+            "Y_pos": 744,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -264,
+            "Y_pos": -840,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 120,
+            "Y_pos": -840,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 600,
+            "Y_pos": -840,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 984,
+            "Y_pos": -840,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 72,
+            "Y_pos": -1320,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 504,
+            "Y_pos": -1320,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2472,
+            "Y_pos": 216,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2808,
+            "Y_pos": 216,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 3000,
+            "Y_pos": -936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2568,
+            "Y_pos": -936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 3096,
+            "Y_pos": -1800,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2808,
+            "Y_pos": -1800,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2520,
+            "Y_pos": -1800,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2232,
+            "Y_pos": -1800,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 1704,
+            "Y_pos": -1800,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 1464,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 1848,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2232,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 2616,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 3048,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 1944,
+            "Y_pos": -2760,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 1512,
+            "Y_pos": -2760,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 1080,
+            "Y_pos": -2760,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 648,
+            "Y_pos": -2760,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 216,
+            "Y_pos": -2760,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -24,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": 648,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -456,
+            "Y_pos": -2184,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -360,
+            "Y_pos": -1896,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Steam",
+            "X_pos": 2618,
+            "Y_pos": -544,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Steam",
+            "X_pos": 2575,
+            "Y_pos": -544,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_FragileWall",
+            "X_pos": 1680,
+            "Y_pos": -144,
+            "Z_pos": 0,
+            "Direction": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 1776,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 1848,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_TreasureBox",
+            "X_pos": 480,
+            "Y_pos": 24,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 1224,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 514,
+            "Y_pos": -496,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 705,
+            "Y_pos": -196,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 621,
+            "Y_pos": -246,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Book",
+            "X_pos": 600,
+            "Y_pos": -396,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3384,
+            "Y_pos": 168,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3384,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3432,
+            "Y_pos": -72,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3288,
+            "Y_pos": -408,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3336,
+            "Y_pos": -408,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3336,
+            "Y_pos": -600,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3384,
+            "Y_pos": -600,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Spike",
+            "X_pos": 3432,
+            "Y_pos": -600,
+            "Z_pos": 0
+        }
+    ]
+}

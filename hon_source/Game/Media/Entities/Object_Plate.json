@@ -1,0 +1,9 @@
+{
+	"Position":[0, 0, -0.1],
+	"SpriteSheet": "PlateSheet",
+	"Shader": "Animation",
+	"Collidable": [24, 24],
+    "RigidBody": [1024, 400, 1024, 0],
+    "State" : true,
+    "Audio" : ["Candy"]
+}

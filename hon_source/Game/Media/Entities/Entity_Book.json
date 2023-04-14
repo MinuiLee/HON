@@ -1,0 +1,11 @@
+{
+	"Position":[0 , 0, -0.1],
+	"SpriteSheet": "Book",
+	"Shader": "Animation",
+	"State": true,
+	"RigidBody": [1024, 200, 1024, 256],
+	"Collidable": [ 48, 40 ],
+	"AI": [3, 200],
+	"Status": [5, 1, 2, 30],
+	"Audio": ["Broom_Hit", "Enemy_Dead"]
+}

@@ -1,0 +1,13 @@
+{
+    "MAPSIZE_H": 1600,
+    "MAPSIZE_W": 1024,
+    "BACKGROUND": "DogeBackground",
+    "GROUND": "Ground",
+    "SOUNDS": [
+        {
+            "Name": "MagicHat"
+        }
+    ],
+    "ENTITIES": [
+    ]
+}

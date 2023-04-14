@@ -1,0 +1,64 @@
+Size 48 48
+Scale 1.0 1.0
+
+Part Body
+|Animation	name        row   frameStart      frameEnd     frameTime
+Animation	Idle 	    0     0 			  5            0.1
+Animation	Walk	    2     0 			  5            0.1
+Animation	Hurt	    4     0 			  0            0.1
+Animation   Air_Stomp   6     0               0            0.1
+Animation   Dead        8     0               5            0.3
+Animation   Uppercut        10     0               0            0.1
+
+|
+
+Part AttackEffect
+|Animation	name    row   frameStart    frameEnd       frameTime
+Animation   Dash    12    0             5              0.05
+
+Part HitEffect
+|Animation	name	row	frameStart	    frameEnd          frameTime
+Animation   Hit     14   0               5                0.03
+
+|
+
+Part SteamRight
+Animation	Boom 	16	0 			    9				  0.03
+Animation   Stomp   18  0               6                 0.06
+
+Part SteamLeft
+Animation	Boom 	20	0 			    9 				  0.03
+Animation   Stomp   22  0               6                 0.06
+
+Part SteamUp
+Animation	Boom 	24	0 			    9 				  0.03
+
+Part SteamDown
+Animation	Boom 	26	0 			    9 				  0.03
+
+|
+
+Part ShockWaveRight
+Animation	Boom 	    28	0 			    5				  0.04
+Animation	Disappear 	30	0 			    7				  0.04
+
+Part ShockWaveLeft
+Animation	Boom 	    32	0 			    5 				  0.04
+Animation	Disappear 	34	0 			    7				  0.04
+
+Part ShockWaveUp
+Animation	Boom 	    36	0 			    5 				  0.02
+Animation	Disappear 	38	0 			    7				  0.04
+
+Part ShockWaveDown
+Animation	Boom 	    40	0 			    5 				  0.04
+Animation	Disappear 	42	0 			    7				  0.04
+
+Part Star
+Animation   Star        44  0               3                 0.05 
+
+Part Flower
+Animation   Red        46  0               0                 0.01 
+Animation   Blue        48  0               0                 0.01 
+Animation   Yellow        50  0               0                 0.01 
+Animation   White        52  0               0                 0.01 

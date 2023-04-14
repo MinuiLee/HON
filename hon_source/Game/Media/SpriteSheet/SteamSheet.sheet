@@ -1,0 +1,19 @@
+Size 48 48
+Scale 2.0 2.0
+
+Part Body
+|Animation	name	row	frameStart	frameEnd		frameTime
+Animation	Idle 	  0	  0 			  4 				    0.1
+Animation	Walk	  2	  0 			  11 				    0.1
+Animation	Hurt	  4	  0 			  0 				    0.1
+Animation	Dead	  6	  0 			  7 				    0.1
+
+Part HitEffect
+|Animation	name		row	frameStart	frameEnd		frameTime
+Animation	Hit 	8	0 			    4 				  0.03
+
+Part Star
+Animation   Star        10  0               3                 0.05
+
+Part Steam
+Animation   Steam        12  0               9                 0.05 

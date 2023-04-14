@@ -1,0 +1,12 @@
+{
+	"Position":[0, 0, 0.2, 1, 0],
+	"SpriteSheet": "BossSheet",
+	"Shader": "Animation",
+	"State": true,
+	"RigidBody": [1024, 200, 1024, 400],
+	"Collidable": [48, 48],
+	"Status": [30, 1, 2, 0],
+	"AI": [7, 200],
+	"Attackable": [0, 0, 48, 200],
+	"Audio": ["Air_stomp", "Stomp", "Jump", "Dash", "Ghost_Hit", "High_Air_Stomp"]
+}
