@@ -1,0 +1,69 @@
+{
+  "SHADERS": [
+    {
+      "Name":  "Basic",
+      "Vertex": "Shader/Basic_Vertex.glsl",
+      "Fragment": "Shader/Basic_Fragment.glsl"
+    },
+    {
+      "Name":  "BasicWithoutDiscard",
+      "Vertex": "Shader/BasicWithoutDiscard_Vertex.glsl",
+      "Fragment": "Shader/BasicWithoutDiscard_Fragment.glsl"
+    },
+    {
+      "Name":  "Animation",
+      "Vertex": "Shader/Anim_Vertex.glsl",
+      "Fragment": "Shader/Anim_Fragment.glsl"
+    },
+    {
+      "Name":  "Shadow",
+      "Vertex": "Shader/Shadow_Vertex.glsl",
+      "Fragment": "Shader/Shadow_Fragment.glsl"
+    },
+    {
+      "Name":  "AnimShadow",
+      "Vertex": "Shader/AnimShadow_Vertex.glsl",
+      "Fragment": "Shader/AnimShadow_Fragment.glsl"
+    },
+    {
+      "Name":  "Debug",
+      "Vertex": "Shader/Debug_Vertex.glsl",
+      "Fragment": "Shader/Debug_Fragment.glsl"
+    },
+	{
+      "Name":  "FrameBuffer",
+      "Vertex": "Shader/FrameBuffer_Vertex.glsl",
+      "Fragment": "Shader/FrameBuffer_Fragment.glsl"
+    },
+    {
+      "Name":  "ERROR",
+      "Vertex": "Shader/ERROR_Vertex.glsl",
+      "Fragment": "Shader/ERROR_Fragment.glsl"
+    },
+    {
+      "Name":  "Fragment",
+      "Vertex": "Shader/Fragment_Vertex.glsl",
+      "Fragment": "Shader/Fragment_Fragment.glsl"
+    },
+    {
+      "Name":  "Dust",
+      "Vertex": "Shader/Dust_Vertex.glsl",
+      "Fragment": "Shader/Dust_Fragment.glsl"
+    },
+    {
+      "Name":  "Drain",
+      "Vertex": "Shader/Drain_Vertex.glsl",
+      "Fragment": "Shader/Drain_Fragment.glsl"
+    },
+    {
+      "Name":  "Scattering",
+      "Vertex": "Shader/Scattering_Vertex.glsl",
+      "Fragment": "Shader/Scattering_Fragment.glsl"
+    },
+    {
+      "Name":  "DoorDrain",
+      "Vertex": "Shader/DoorDrain_Vertex.glsl",
+      "Fragment": "Shader/DoorDrain_Fragment.glsl"
+    }
+  ]
+}

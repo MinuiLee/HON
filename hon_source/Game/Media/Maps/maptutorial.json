@@ -1,0 +1,49 @@
+{
+    "MAPSIZE_H": 1600,
+    "MAPSIZE_W": 1024,
+    "BACKGROUND": "DogeBackground",
+    "GROUND": "Ground",
+    "SOUNDS": [
+        {
+            "Name": "MagicHat"
+        }
+    ],
+    "ENTITIES": [
+        {
+            "Name": "Player",
+            "X_pos": -200.0,
+            "Y_pos": 0,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Scarecrow",
+            "X_pos": -263.0,
+            "Y_pos": 0.0,
+            "Z_pos": 0.0
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -192.0,
+            "Y_pos": 0,
+            "Z_pos": -60.5
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 262.5,
+            "Y_pos": 0,
+            "Z_pos": -158.0
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -42.0,
+            "Y_pos": 0,
+            "Z_pos": -194.5
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 170.5,
+            "Y_pos": 0,
+            "Z_pos": -52.5
+        }
+    ]
+}

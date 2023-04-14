@@ -1,0 +1,7 @@
+{
+	"Position":[0, 0, -0.3],
+	"SpriteSheet": "FlowerBlueSheet",
+	"Shader": "Animation",
+	"State" : true,
+	"Collidable": [16, 32]
+}

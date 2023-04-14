@@ -1,0 +1,15 @@
+Size 64 64
+Scale 2.0 2.0
+
+Part Body
+|Animation	name	row	frameStart	frameEnd		frameTime
+Animation	Idle 	  0	  0 			  0 				    0.1
+Animation	Walk	  2	  0 			  8 				    0.1
+
+Part AttackEffect
+|Animation	name	row	frameStart	frameEnd		frameTime
+Animation	  Cut 	4	  0 			    5 				  0.03
+
+Part HitEffect
+|Animation	name		row	frameStart	frameEnd		frameTime
+Animation	Hit 	6	0 			    4 				  0.03

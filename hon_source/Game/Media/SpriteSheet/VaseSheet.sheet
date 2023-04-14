@@ -1,0 +1,10 @@
+Size 72 72
+Scale 1.0 1.0
+
+Part Body
+|Animation	name	row	frameStart	frameEnd		frameTime
+Animation	Idle 	  0	  0 			  0 				    0.01
+Animation	Red 	  2	  0 			  0 				    0.01
+Animation	Blue 	  4	  0 			  0 				    0.01
+Animation	Yellow 	  6	  0 			  0 				    0.01
+Animation	White 	  8	  0 			  0 				    0.01

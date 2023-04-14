@@ -1,0 +1,100 @@
+{
+    "ENTITIES": [
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -4104,
+            "Y_pos": 936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -2568,
+            "Y_pos": 504,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -2568,
+            "Y_pos": 792,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -2568,
+            "Y_pos": 936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -2568,
+            "Y_pos": 648,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Player",
+            "X_pos": -3338,
+            "Y_pos": 840,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -4104,
+            "Y_pos": 504,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -4104,
+            "Y_pos": 648,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_PlateTower",
+            "X_pos": -4104,
+            "Y_pos": 792,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Entity_Boss",
+            "X_pos": -3341,
+            "Y_pos": 312,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -3864,
+            "Y_pos": 936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -3336,
+            "Y_pos": 936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -2808,
+            "Y_pos": 936,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -3336,
+            "Y_pos": 600,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -3864,
+            "Y_pos": 600,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Object_Torch",
+            "X_pos": -2808,
+            "Y_pos": 600,
+            "Z_pos": 0
+        }
+    ]
+}

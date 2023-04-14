@@ -1,0 +1,10 @@
+{
+	"Position":[0, 0, 0],
+	"SpriteSheet": "PlateTower",
+	"Shader": "Animation",
+	"Collidable": [48, 48],
+    "State" : true,
+    "GameObject" : [3],
+    "Status": [5, 1, 0, 30],
+    "Audio" : ["Broom_Hit"]
+}

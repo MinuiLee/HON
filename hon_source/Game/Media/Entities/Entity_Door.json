@@ -1,0 +1,9 @@
+{
+	"Position":[0, 0, 0.0],
+	"Shader": "Animation",
+	"SpriteSheet": "Door",
+    "State": true,
+	"Collidable": [96, 192],
+	"GameObject" : [0],
+    "Audio" : ["DoorOpening"]
+}

@@ -1,0 +1,9 @@
+{
+	"Position":[0, 0, -0.1],
+	"Shader": "Animation",
+	"SpriteSheet": "BlueSoul",
+	"State": true,
+	"RigidBody": [1024, 200, 1024, 256],
+	"Collidable": [16, 32],
+	"Audio": ["Absorb"]
+}

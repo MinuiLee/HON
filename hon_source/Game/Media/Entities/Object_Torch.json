@@ -1,0 +1,6 @@
+{
+	"Position":[0, 0, -0.1],
+	"SpriteSheet": "TorchSheet",
+	"Shader": "Animation",
+	"State" : true
+}

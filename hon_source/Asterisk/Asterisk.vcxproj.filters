@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Entity Component System">
+      <UniqueIdentifier>{8ab25b1f-49d8-42fb-83ae-ac4eb10dc91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\Component">
+      <UniqueIdentifier>{04372fca-2ccd-42f5-b0c1-cc73f4eaa068}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System">
+      <UniqueIdentifier>{7df4ee2d-cbb3-4aba-8cae-72368e14d169}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\Messaging">
+      <UniqueIdentifier>{022d9301-f2bd-4d4e-bb6d-fa618c3efb8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{1ef8636a-914e-4afc-80b9-9a34000de5ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{c381ac4c-8802-42e0-82de-938525bd8559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\Textures">
+      <UniqueIdentifier>{6aa13fd4-c1b1-442e-9e6d-c0457c58184d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\Textures\SpriteSheet">
+      <UniqueIdentifier>{2af9ab1d-0185-45a5-beb9-fb4b4297241a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{39c9b1cb-85a4-41ca-9b1c-9d1a6218b029}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\Audio">
+      <UniqueIdentifier>{5b79d631-26b7-480e-8f7d-354bf81b2122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\Graphics">
+      <UniqueIdentifier>{e0869672-2704-4f57-845d-0110d60c3a88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OpenGL">
+      <UniqueIdentifier>{1c8dd44f-4af8-4ac7-bfc6-fe0acaa29941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\CollisionDetection">
+      <UniqueIdentifier>{b0ed3414-5778-4dc4-881b-06453c75f733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\Graphics\Font">
+      <UniqueIdentifier>{27768b59-81d3-4ac0-9837-e38e06e1191c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\MapEditor">
+      <UniqueIdentifier>{ea4aef0c-133c-4270-88ee-1c986027c2fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\GUI">
+      <UniqueIdentifier>{abccac06-6b6e-40f8-b275-17a2827f6c45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\AI_States">
+      <UniqueIdentifier>{42e9279d-3812-410a-a62f-1363d644f970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\AI_States\Interface">
+      <UniqueIdentifier>{4d03321b-03e5-4e36-a3e5-f32b7f0b17d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\AI_States\Normal">
+      <UniqueIdentifier>{23219d8c-0158-4688-a5e8-b452e9a7ab1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\AI_States\Flying">
+      <UniqueIdentifier>{0943ff19-fb6b-4de5-b6d2-1295ce45ff5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\GameObject">
+      <UniqueIdentifier>{1b09abb9-3d4c-4382-855b-98eeb397866d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\AI_States\Defense">
+      <UniqueIdentifier>{9913d18e-b842-47a4-95d3-05f76829a106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main\Graphics\Particle">
+      <UniqueIdentifier>{63674a67-3c26-489f-82ee-9d04f049b658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\AI_States\Bouncing">
+      <UniqueIdentifier>{cbc0b5b5-7b19-46a9-9b80-896e78bb79bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\Boss">
+      <UniqueIdentifier>{1b283330-47cb-452c-89a7-8763ad5d5985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\Boss\Goals">
+      <UniqueIdentifier>{fcf090a5-dd38-4aae-9269-1a17ad71321d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\Boss\Goals\Interface">
+      <UniqueIdentifier>{aa578e91-1528-4a1e-9fcf-a9a4fabf50e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\Boss\Goals\goals">
+      <UniqueIdentifier>{66da6189-4c0d-4b9a-a1cf-b48d7daf2ea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity Component System\System\Boss\Goals\goal evaluation">
+      <UniqueIdentifier>{2e8daebc-d23f-4f2f-98f7-b6b1008a613d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="S_Base.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Control.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Movement.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Renderer.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="StateManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="S_SpriteSheet.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="S_State.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Collision.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Managers\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Main\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseWindow.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Main\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Managers\Textures\SpriteSheet</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteSheet.cpp">
+      <Filter>Managers\Textures\SpriteSheet</Filter>
+    </ClCompile>
+    <ClCompile Include="S_AI.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Managers\CollisionDetection</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Main\Graphics\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Main\Graphics\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Managers\MapEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="MapEditor.cpp">
+      <Filter>Managers\MapEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Audio.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderSource.cpp">
+      <Filter>OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderContainer.cpp">
+      <Filter>Main\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Attackable.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Managers\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Sprite.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Mathematics.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="C_RigidBody.cpp">
+      <Filter>Entity Component System\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\GlobalState_Normal.cpp">
+      <Filter>Entity Component System\System\AI_States</Filter>
+    </ClCompile>
+    <ClCompile Include="C_AI.cpp">
+      <Filter>Entity Component System\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\StateMachine.cpp">
+      <Filter>Entity Component System\System\AI_States\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Chasing.cpp">
+      <Filter>Entity Component System\System\AI_States\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Wandering.cpp">
+      <Filter>Entity Component System\System\AI_States\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Attack_Flying.cpp">
+      <Filter>Entity Component System\System\AI_States\Flying</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Wandering_Flying.cpp">
+      <Filter>Entity Component System\System\AI_States\Flying</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_KnockDown.cpp">
+      <Filter>Entity Component System\System\AI_States\Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="S_GameObject.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="C_GameObject.cpp">
+      <Filter>Entity Component System\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Door.cpp">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\PlateTower.cpp">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\DoorUI.cpp">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\FragileWall.cpp">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Defense.cpp">
+      <Filter>Entity Component System\System\AI_States\Defense</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Bouncing.cpp">
+      <Filter>Entity Component System\System\AI_States\Bouncing</Filter>
+    </ClCompile>
+    <ClCompile Include="DustParticle.cpp">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="FragmentParticle.cpp">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="ScatteringParticle.cpp">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="AI_States\State_Rush.cpp">
+      <Filter>Entity Component System\System\AI_States\Defense</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Composite.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Think.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Attack.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Boss.cpp">
+      <Filter>Entity Component System\System\Boss\Goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Dash.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Uppercut.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Stomp.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\Goal_Flee.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\GoalEvaluation\AttackGoal_Evaluator.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goal evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss\Goals\GoalEvaluation\FleeGoal_Evaluator.cpp">
+      <Filter>Entity Component System\System\Boss\Goals\goal evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatRect.cpp">
+      <Filter>Main\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Main\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="S_Particle.cpp">
+      <Filter>Entity Component System\System</Filter>
+    </ClCompile>
+    <ClCompile Include="DrainParticle.cpp">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorDrainParticle.cpp">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Direction.h">
+      <Filter>Managers\Textures\SpriteSheet</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Base.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Controllable.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Drawable.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="C_SpriteSheet.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Communicator.h">
+      <Filter>Entity Component System\System\Messaging</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageHandler.h">
+      <Filter>Entity Component System\System\Messaging</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Entity Component System\System\Messaging</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Base.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Control.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Movement.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Renderer.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SharedContext.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="StateManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="S_SpriteSheet.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="C_State.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="S_State.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Collidable.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Collision.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS_Types.h">
+      <Filter>Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Managers\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="glext.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Stride.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="wglext.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseWindow.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Managers\Textures\SpriteSheet</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteSheet.h">
+      <Filter>Managers\Textures\SpriteSheet</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatRect.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C_RigidBody.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="C_AI.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Main\Graphics\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Main\Graphics\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Managers\CollisionDetection</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Managers\MapEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="MapEditor.h">
+      <Filter>Managers\MapEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Audio.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Audio.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Status.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Attackable.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Attackable.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Sprite.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="S_AI.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderSource.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderContainer.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Shader.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Layer.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Managers\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Sprite.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Mathematics.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Position.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Managers\MapEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\GlobalState_Normal.h">
+      <Filter>Entity Component System\System\AI_States</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State.h">
+      <Filter>Entity Component System\System\AI_States\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\StateMachine.h">
+      <Filter>Entity Component System\System\AI_States\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\StateList.h">
+      <Filter>Entity Component System\System\AI_States\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Chasing.h">
+      <Filter>Entity Component System\System\AI_States\Normal</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Wandering.h">
+      <Filter>Entity Component System\System\AI_States\Normal</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Attack_Flying.h">
+      <Filter>Entity Component System\System\AI_States\Flying</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Wandering_Flying.h">
+      <Filter>Entity Component System\System\AI_States\Flying</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_KnockDown.h">
+      <Filter>Entity Component System\System\AI_States\Normal</Filter>
+    </ClInclude>
+    <ClInclude Include="C_GameObject.h">
+      <Filter>Entity Component System\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="S_GameObject.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Door.h">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityState.h">
+      <Filter>Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\PlateTower.h">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\DoorUI.h">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\FragileWall.h">
+      <Filter>Entity Component System\System\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Defense.h">
+      <Filter>Entity Component System\System\AI_States\Defense</Filter>
+    </ClInclude>
+    <ClInclude Include="DepthList.h">
+      <Filter>Main\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="DustParticle.h">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="FragmentParticle.h">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="ScatteringParticle.h">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Bouncing.h">
+      <Filter>Entity Component System\System\AI_States\Bouncing</Filter>
+    </ClInclude>
+    <ClInclude Include="AI_States\State_Rush.h">
+      <Filter>Entity Component System\System\AI_States\Defense</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementConstants.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal.h">
+      <Filter>Entity Component System\System\Boss\Goals\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Composite.h">
+      <Filter>Entity Component System\System\Boss\Goals\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Think.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Attack.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Types.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Boss.h">
+      <Filter>Entity Component System\System\Boss\Goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Dash.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Uppercut.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Stomp.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\Goal_Flee.h">
+      <Filter>Entity Component System\System\Boss\Goals\goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\GoalEvaluation\AttackGoal_Evaluator.h">
+      <Filter>Entity Component System\System\Boss\Goals\goal evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\GoalEvaluation\Goal_Evaluator.h">
+      <Filter>Entity Component System\System\Boss\Goals\goal evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss\Goals\GoalEvaluation\FleeGoal_Evaluator.h">
+      <Filter>Entity Component System\System\Boss\Goals\goal evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="DrainParticle.h">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="S_Particle.h">
+      <Filter>Entity Component System\System</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorDrainParticle.h">
+      <Filter>Main\Graphics\Particle</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+Size 48 48
+Scale 1.0 1.0
+
+Part Body
+|Animation	name	row	frameStart	frameEnd		frameTime
+Animation	Idle 	  0	  0 			  7 				    0.08

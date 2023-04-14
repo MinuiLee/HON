@@ -1,0 +1,136 @@
+{
+    "MAPSIZE_H": 1600,
+    "MAPSIZE_W": 1024,
+    "BACKGROUND": "DogeBackground",
+    "GROUND": "Ground",
+    "SOUNDS": [
+        {
+            "Name": "MagicHat"
+        }
+    ],
+    "ENTITIES": [
+        {
+            "Name": "Player",
+            "X_pos": 0.0,
+            "Y_pos": 0,
+            "Z_pos": 0
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -303.5,
+            "Y_pos": 0,
+            "Z_pos": -29.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 3
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -304.0,
+            "Y_pos": 0,
+            "Z_pos": -77.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 3
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -302.5,
+            "Y_pos": 0,
+            "Z_pos": -114.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 3
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -304.0,
+            "Y_pos": 0,
+            "Z_pos": -134.5,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 3
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -302.5,
+            "Y_pos": 0,
+            "Z_pos": -173.5,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 3
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 313.0,
+            "Y_pos": 0,
+            "Z_pos": 0.5,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 315.5,
+            "Y_pos": 0,
+            "Z_pos": -36.5,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 315.5,
+            "Y_pos": 0,
+            "Z_pos": -70.5,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 309.5,
+            "Y_pos": 0,
+            "Z_pos": -99.5,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 309.0,
+            "Y_pos": 0,
+            "Z_pos": -136.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 307.5,
+            "Y_pos": 0,
+            "Z_pos": -154.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": -302.0,
+            "Y_pos": 0,
+            "Z_pos": 2.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 3
+        },
+        {
+            "Name": "Static_statue",
+            "X_pos": 302.0,
+            "Y_pos": 0,
+            "Z_pos": -182.0,
+            "Condition": 0.0,
+            "Condition_ID": 0,
+            "Condition_Dir": 1
+        }
+    ]
+}

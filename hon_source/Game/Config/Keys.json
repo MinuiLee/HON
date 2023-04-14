@@ -1,0 +1,79 @@
+{
+    "BINDINGS": [
+        {
+            "Name": "Window_Resized",
+            "EventType": 1,
+            "EventCode": -1
+        },
+        {
+            "Name": "Health_1_Cheat",
+            "EventType": 768,
+            "EventCode": 59
+        },
+        {
+            "Name": "Player_Dash_Left",
+            "EventType": 768,
+            "EventCode": 4
+        },
+        {
+            "Name": "Player_Move_Left",
+            "EventType": 773,
+            "EventCode": 80
+        },
+        {
+            "Name": "Player_Dash_Right",
+            "EventType": 768,
+            "EventCode": 7
+        },
+        {
+            "Name": "Player_Uppercut",
+            "EventType": 768,
+            "EventCode": 26
+        },
+        {
+            "Name": "Exit",
+            "EventType": 5,
+            "EventCode": 36
+        },
+        {
+            "Name": "Player_Idle_Left",
+            "EventType": 769,
+            "EventCode": 80
+        },
+        {
+            "Name": "Move_To_Game",
+            "EventType": 5,
+            "EventCode": 57
+        },
+        {
+            "Name": "Player_Move_Right",
+            "EventType": 773,
+            "EventCode": 79
+        },
+        {
+            "Name": "Player_Idle_Right",
+            "EventType": 769,
+            "EventCode": 79
+        },
+        {
+            "Name": "Player_Jump",
+            "EventType": 768,
+            "EventCode": 82
+        },
+        {
+            "Name": "Player_Stomp",
+            "EventType": 768,
+            "EventCode": 22
+        },
+        {
+            "Name": "Toggle_Invincible_Cheat",
+            "EventType": 768,
+            "EventCode": 58
+        },
+        {
+            "Name": "Toggle_WorldMap",
+            "EventType": 768,
+            "EventCode": 16
+        }
+    ]
+}

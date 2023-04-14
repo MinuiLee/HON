@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="States">
+      <UniqueIdentifier>{ebb57516-3012-4f4c-827d-0dccd1d42686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainApplication">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="GameApps">
+      <UniqueIdentifier>{a738a904-76cd-4f55-ab03-7df989f6902b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="State_Game.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>MainApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>MainApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="State_Splash.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="State_Main.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>GameApps</Filter>
+    </ClCompile>
+    <ClCompile Include="Option.cpp">
+      <Filter>GameApps</Filter>
+    </ClCompile>
+    <ClCompile Include="State_Credit.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveCharacter.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>MainApplication</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Game.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Splash.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Main.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>GameApps</Filter>
+    </ClInclude>
+    <ClInclude Include="Option.h">
+      <Filter>GameApps</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Credit.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveCharacter.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico" />
+  </ItemGroup>
+</Project>
